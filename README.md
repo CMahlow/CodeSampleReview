@@ -1,10 +1,9 @@
 # CodeSampleReview
 
-A recent side project of redesign the user interface and ux for a non-profit education website.
+
 
 # Motivation
 
-Using my weekend to show my future employee how I showcase code sample by building a proposal for a low budget a small business typed cooperative STEAM preschool to make a integration of digital technology into all areas of education. Tuition is kept low at The Cooperative Preschool because every family has a role in keeping the program running, the school is need of all aspect technology support that including website and selling school related item to run the school.
 
 ## Getting Started
 
